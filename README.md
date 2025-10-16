@@ -28,4 +28,7 @@
 ## How to use
 - Plug the ESP32WROOM32U via pc or anywhere else.
 - Go to your WIFI selection in your phone, pc or any device.
+- Find CHAT or whatever you named it. And the current password for it is "mogchat123".
 - Open your browser and paste ```http://192.168.4.1```
+
+# This readme will change every release
