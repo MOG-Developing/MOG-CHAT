@@ -2,7 +2,8 @@
 ---
 **MOG-CHAT is a lightweight chatserver that accessible via a browser running on ESP32. You can connect via Wi-Fi, send messages and chat in real time without connecting to the internet.**
 
-![Stars](https://img.shields.io/github/stars/MOG-Developing/MOG-CHAT?style=social) ![Forks](https://img.shields.io/github/forks/MOG-Developing/MOG-CHAT?style=social) ![Contributors](https://img.shields.io/github/contributors/MOG-Developing/MOG-CHAT) ![Issues](https://img.shields.io/github/issues/MOG-Developing/MOG-CHAT) ![Downloads](https://img.shields.io/github/downloads/MOG-Developing/MOG-CHAT/total) ![License](https://img.shields.io/github/license/MOG-Developing/MOG-CHAT) <img src="https://github.com/user-attachments/assets/96a6dbb6-b029-43dd-9dbb-548c1155ee85" width="300" />
+![Stars](https://img.shields.io/github/stars/MOG-Developing/MOG-CHAT?style=social) ![Forks](https://img.shields.io/github/forks/MOG-Developing/MOG-CHAT?style=social) ![Contributors](https://img.shields.io/github/contributors/MOG-Developing/MOG-CHAT) ![Issues](https://img.shields.io/github/issues/MOG-Developing/MOG-CHAT) ![Downloads](https://img.shields.io/github/downloads/MOG-Developing/MOG-CHAT/total) ![License](https://img.shields.io/github/license/MOG-Developing/MOG-CHAT)
+<img src="https://github.com/user-attachments/assets/96a6dbb6-b029-43dd-9dbb-548c1155ee85" width="300" />
 
 ---
 
