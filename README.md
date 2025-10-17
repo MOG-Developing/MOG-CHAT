@@ -14,3 +14,4 @@
 
 ### BRANCH OF NEWEST CURRENT RELEASE: https://github.com/MOG-Developing/MOG-CHAT/tree/v1
 <img src="https://github.com/user-attachments/assets/96a6dbb6-b029-43dd-9dbb-548c1155ee85" width="280" />
+https://mog-developing.github.io/MOG-CHAT/
