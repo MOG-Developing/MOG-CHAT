@@ -26,10 +26,28 @@
         async function fetchBranches() {
             try {
                 const response = await fetch(`https://api.github.com/repos/${repo}/branches`);
-                branches = await response.json();
+                const allBranches = await response.json();
+                branches = [];
+                
+                for (const branch of allBranches) {
+                    const hasReadme = await checkReadme(branch.name);
+                    if (hasReadme) {
+                        branches.push(branch);
+                    }
+                }
+                
                 renderTabs();
             } catch (error) {
                 console.error('Failed to fetch branches:', error);
+            }
+        }
+
+        async function checkReadme(branchName) {
+            try {
+                const response = await fetch(`https://raw.githubusercontent.com/${repo}/${branchName}/README.md`);
+                return response.status === 200;
+            } catch (error) {
+                return false;
             }
         }
 
