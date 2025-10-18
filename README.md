@@ -15,6 +15,7 @@
 - Timestamp handling
 
 And etc!
+Also this version is a little bit slower in messaging than the last one.
 
 ## How to get it to work?
 - You need to have ArduinoIDE installed
