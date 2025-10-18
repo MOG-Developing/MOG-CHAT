@@ -1,4 +1,4 @@
-# MOG-CHAT V1 (RELEASE)
+# MOG-CHAT V1.1 (RELEASE)
 ---
 ## Features:
 - Browser accessible chat
@@ -6,6 +6,14 @@
 - RealTime
 - Modern interface
 - Runs fully on the ESP32WROOM32U
+
+## Improvements/Additions:
+- XSS Prevention
+- User validation 
+- Message validation
+- New JS functions
+- Timestamp handling
+And etc!
 
 ## How to get it to work?
 - You need to have ArduinoIDE installed
