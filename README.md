@@ -12,6 +12,6 @@
 ## MOG-CHAT
 - MOG-CHAT converts the ESP32 microcontroller into a standalone Wi-Fi chat server enabled in Access Point (AP) mode, as it creates its own Wi-Fi hotspot without needing any network connection. The system operates as a private local chat system a modern web browser can open, providing a real-time chat platform. The project shows the power of the ESP32 by integrating Wi-Fi networking, embedded web servers, and responsive UI design into an efficient small modular and energy-saving system, which is ideal for experimental, educational, or off-line communication purposes.
 
-### BRANCH OF NEWEST CURRENT RELEASE: [https://github.com/MOG-Developing/MOG-CHAT/tree/v1](https://github.com/MOG-Developing/MOG-CHAT/tree/v1.1)
+### BRANCH OF NEWEST CURRENT RELEASE: https://github.com/MOG-Developing/MOG-CHAT/tree/v1.1
 <img src="https://github.com/user-attachments/assets/96a6dbb6-b029-43dd-9dbb-548c1155ee85" width="280" />
 https://mog-developing.github.io/MOG-CHAT/
