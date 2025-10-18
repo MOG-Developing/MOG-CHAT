@@ -13,6 +13,7 @@
 - Message validation
 - New JS functions
 - Timestamp handling
+
 And etc!
 
 ## How to get it to work?
