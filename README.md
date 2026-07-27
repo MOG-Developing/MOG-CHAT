@@ -13,6 +13,7 @@ MOG-CHAT runs on ESP32 hardware and creates its own WiFi AP. No internet, no clo
 
 ## MOG-CHAT V1.3
 MOG-CHAT turns the ESP32 into a WiFi AP with a web server. Connect any device to its WiFi, open `http://192.168.4.1`, and chat. V1.3 adds ESP-NOW peer-to-peer networking: ESPs discover each other, pair via challenge-response, and sync messages across the mesh. Each ESP still hosts its own clients. Features full configuration via web UI, admin panel, peer management, and security (configurable creds, brute-force lockout, CSRF, SHA-256 derived keys).
+[WEBSITE](https://mog-developing.github.io/MOG-CHAT/)
 
 ---
 
